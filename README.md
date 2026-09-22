@@ -48,4 +48,5 @@ These scripts get pages into your program. If the next step is turning that cont
 
 [Try Synexa - one API for FLUX, video and audio models](https://synexa.ai?utm_source=github&utm_medium=ugc&utm_campaign=firecrawl-api-examples&utm_content=readme-top&utm_term=tier-r)
 
+
 _Last reviewed: 2026-09-22_

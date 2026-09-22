@@ -47,3 +47,5 @@ Starts a crawl, then polls the crawl status endpoint every few seconds until the
 These scripts get pages into your program. If the next step is turning that content into images, short video or audio, [Synexa](https://synexa.ai?utm_source=github&utm_medium=ugc&utm_campaign=firecrawl-api-examples&utm_content=readme-top&utm_term=tier-r) hosts FLUX, video and audio models behind one REST endpoint with a Python SDK and bills per run. It is not a scraper and does not replace Firecrawl; it is the second half of the pipeline.
 
 [Try Synexa - one API for FLUX, video and audio models](https://synexa.ai?utm_source=github&utm_medium=ugc&utm_campaign=firecrawl-api-examples&utm_content=readme-top&utm_term=tier-r)
+
+_Last reviewed: 2026-09-22_
